@@ -2,8 +2,8 @@
 
 WiFiServer wifiServer (80);
 
-const char* ssid = "SFR_AB18";                    //Nom du WiFi
-const char* password = "99vjaw6khq75qmva2ubd";    //Mot de Passe du WiFi
+const char* ssid = "****";                    //Nom du WiFi
+const char* password = "****";    //Mot de Passe du WiFi
 
 
 void setup() {
